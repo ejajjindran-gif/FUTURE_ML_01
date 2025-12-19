@@ -1,0 +1,7 @@
+User initiates the conversation
+Chatbot sends a greeting message
+User asks a customer support related question
+Chatbot identifies the intent using NLP
+Chatbot provides a relevant response
+If the query is not understood, a fallback message is shown
+Conversation continues or ends based on user input
