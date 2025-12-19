@@ -1,0 +1,8 @@
+This folder contains screenshots of the Customer Support Chatbot.
+
+Screenshots include:
+1. Chatbot greeting message
+2. User asking a customer support question
+3. Chatbot response based on intent
+4. Fallback message for unknown queries
+5. Dialogflow intent configuration (if applicable)
